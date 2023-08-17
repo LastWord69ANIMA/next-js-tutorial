@@ -1,3 +1,10 @@
+※2023/8/17追記
+このリポジトリは以下のリンクに従って作成しました。一応、一通り触ってみたという報告です。
+
+https://reffect.co.jp/react/next-js-13/
+
+･･･以降は掲示板サイトをPrismaを使って作ってみようと思っています。
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
